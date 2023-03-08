@@ -5,4 +5,4 @@ This is a shell project which am doing on my own.
 3. This task is to display current working directory contents in a long format.
 4. This task is to display current directory contents, including hidden files (starting with .). Use the long format.
 5. This task is to display current directory contents. Long format, with user and group IDs displayed numerically, and hidden files.
- 
+6. Thsi task it to create a script that creates a directory named my-first-directory in the /tmp/ directory. 
