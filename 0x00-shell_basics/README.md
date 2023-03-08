@@ -7,4 +7,5 @@ This is a shell project which am doing on my own.
 5. This task is to display current directory contents. Long format, with user and group IDs displayed numerically, and hidden files.
 6. This task it to create a script that creates a directory named my-first-directory in the /tmp/ directory.
 7. This task is to move the file betty from /tmp/ to /tmp/my-first-directory. 
-
+8. This task is to delete the file betty. The file betty is in /tmp/my-first-directory
+9. This task is to delete the directory my-first-directory that is in the /tmp directory.
