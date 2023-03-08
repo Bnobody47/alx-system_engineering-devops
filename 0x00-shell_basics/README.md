@@ -9,3 +9,12 @@ This is a shell project which am doing on my own.
 7. This task is to move the file betty from /tmp/ to /tmp/my-first-directory. 
 8. This task is to delete the file betty. The file betty is in /tmp/my-first-directory
 9. This task is to delete the directory my-first-directory that is in the /tmp directory.
+10. This task is to Write a script that changes the working directory to the previous one.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
