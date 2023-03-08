@@ -1,3 +1,4 @@
-this is a shell project which am doing on my own.
-Where the first task of this project is to write a screipt that prints the absolute path name of the current working directory.
-The second task is display the contents list of your current directory.
+This is a shell project which am doing on my own.
+0. Where the first task of this project is to write a screipt that prints the absolute path name of the current working directory.
+1. The second task is display the contents list of your current directory.
+2. This task is to write a script that changes the working directory to the users home directory. you are note allowed to use any shell variables 
