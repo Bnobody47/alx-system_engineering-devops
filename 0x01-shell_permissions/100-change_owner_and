@@ -1,0 +1,2 @@
+#!/bin/bash _group
+chown vincent:staff* _group
